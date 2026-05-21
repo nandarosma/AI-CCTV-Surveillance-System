@@ -40,3 +40,26 @@ Technologies Used
 - Ultralytics
 - NumPy
 
+Restricted Area Monitoring
+
+A restricted area is defined inside the CCTV frame.
+
+When a person enters the restricted area:
+
+Warning alert appears on screen
+Screenshot evidence is automatically captured
+Event is recorded in the surveillance output
+📸 Output Example
+
+The system generates:
+
+Processed CCTV output video
+Screenshot evidence images
+Real-time monitoring dashboard
+📈 Future Improvements
+Multi-object tracking
+Face recognition integration
+Real-time notification system
+Web dashboard integration
+Cloud storage support
+AI anomaly detection
