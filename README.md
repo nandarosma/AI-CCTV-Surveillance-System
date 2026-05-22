@@ -25,14 +25,23 @@ The project was developed using Python, OpenCV, and Ultralytics YOLOv8.
 Features:
 
 -Real-time CCTV monitoring
+
 -YOLOv8 object detection
+
 -Restricted area warning system
+
 -Automatic screenshot evidence capture
+
 -Train / tram detection
+
 -Vehicle detection
+
 -Person & bicycle detection
+
 -Confidence score visualization
+
 -CCTV dashboard overlay
+
 -Video output generation
 
 Technologies Used
@@ -45,4 +54,8 @@ Technologies Used
 
 ### Automated CCTV Detection Result
 
-![CCTV Monitoring](screenshots/alert_20260521_081413.jpg)
+![Pickup by Hour](restricted_area_detection_1.jpg)
+
+![Pickup by Hour](restricted_area_detection_2.jpg)
+
+
