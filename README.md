@@ -5,14 +5,17 @@ AI-powered CCTV surveillance system using YOLOv8 and OpenCV for real-time object
 
 - Overview
 
-AI-CCTV-YOLO is a Computer Vision project designed to simulate an intelligent CCTV monitoring system capable of detecting people, bicycles, vehicles, and trains/trams in real time using the YOLOv8 deep learning model.
+AI CCTV Surveillance System is a Computer Vision and Artificial Intelligence project developed to simulate an intelligent CCTV monitoring solution using YOLOv8.
 
-The system analyzes CCTV video streams, identifies multiple objects automatically, highlights detected objects with bounding boxes, and generates warning alerts when a person enters a restricted area.
+The system is capable of detecting multiple objects in real time from CCTV video streams, including people, bicycles, vehicles, and trains/trams. Detected objects are automatically highlighted using bounding boxes and confidence scores.
 
-This project demonstrates practical implementation of:
+In addition, the system includes a restricted area monitoring feature that triggers warning alerts and automatically captures screenshot evidence whenever a person enters a predefined restricted zone.
+
+This project demonstrates the practical implementation of:
 
 - Artificial Intelligence
 - Computer Vision
+- Deep Learning
 - Real-Time Object Detection
 - CCTV Surveillance Automation
 - Security Monitoring Systems
@@ -40,26 +43,6 @@ Technologies Used
 - Ultralytics
 - NumPy
 
-Restricted Area Monitoring
+### Automated CCTV Detection Result
 
-A restricted area is defined inside the CCTV frame.
-
-When a person enters the restricted area:
-
-Warning alert appears on screen
-Screenshot evidence is automatically captured
-Event is recorded in the surveillance output
-📸 Output Example
-
-The system generates:
-
-Processed CCTV output video
-Screenshot evidence images
-Real-time monitoring dashboard
-📈 Future Improvements
-Multi-object tracking
-Face recognition integration
-Real-time notification system
-Web dashboard integration
-Cloud storage support
-AI anomaly detection
+![CCTV Monitoring](screenshots/alert_20260521_081413.jpg)
