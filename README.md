@@ -52,7 +52,7 @@ Technologies Used
 - Ultralytics
 - NumPy
 
-## Video Source
+-Video Source
 
 The CCTV sample video used in this project was obtained from Pexels:
 
