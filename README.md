@@ -59,9 +59,7 @@ The CCTV sample video used in this project was obtained from Pexels:
 https://www.pexels.com/video/black-and-white-aerial-view-of-lyon-traffic-34364652
 
 Thanks to the original creator for providing free-to-use footage for educational and portfolio purposes.
-
 - Detection Capabilities
-
 The system can detect:
 
 - Person
